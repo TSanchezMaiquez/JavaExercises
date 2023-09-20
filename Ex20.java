@@ -240,7 +240,6 @@ split("What's the time?") ➞ "aeieWht's th tm?"*/
 					count2++;	
 				}
 			}
-			
 			if(check && count2==1) {
 				check=false;
 				count2=0;
